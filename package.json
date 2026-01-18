@@ -6,7 +6,7 @@
     "build": "slidev build",
     "dev": "slidev --open",
     "export": "slidev export",
-    "dev:any01": "slidev --open any08"
+    "dev:any08": "slidev --open any08"
   },
   "dependencies": {
     "@slidev/cli": "^52.11.3",

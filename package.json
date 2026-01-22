@@ -4,9 +4,10 @@
   "private": true,
   "scripts": {
     "build": "slidev build",
-    "dev": "slidev --open",
+    "dev": "slidev --open --port 3031",
     "export": "slidev export",
-    "dev:any08": "slidev --open any08"
+    "dev:any08": "slidev --open any08",
+    "export:any08": "slidev export any08"
   },
   "dependencies": {
     "@slidev/cli": "^52.11.3",

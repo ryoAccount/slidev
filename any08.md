@@ -21,10 +21,6 @@ routerMode: hash
 
 # Code Reliability
 
-## この if 文を突破できる？
-
-### TypeScriptで学ぶコードの脆弱性
-
 <div class="mt-12 py-1">
   Security.any #08 目指しているセキュリティLT<br>2026.01.27
 </div>
@@ -40,12 +36,12 @@ transition: fade-out
   <h3>Hi!!👋</h3>
 
   <ui>
-    <li>SRE / Security Engineer</li>
+    <li>SRE / Security Engineer / 説得係</li>
     <li>某人材系企業にて転職支援・案件紹介サービスの開発に従事</li>
-    <li>主にAWS環境のセキュリティ品質の改善や雑務・雑用を1人で担当</li>
+    <li>主にAWS環境のセキュリティ品質の改善や雑務・雑用を担当</li>
     <li>好きな技術は <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><!-- Icon from VSCode Icons by Roberto Huertas - https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE --><path fill="#41b883" d="M24.4 3.925H30l-14 24.15L2 3.925h10.71l3.29 5.6l3.22-5.6Z"/><path fill="#41b883" d="m2 3.925l14 24.15l14-24.15h-5.6L16 18.415L7.53 3.925Z"/><path fill="#35495e" d="M7.53 3.925L16 18.485l8.4-14.56h-5.18L16 9.525l-3.29-5.6Z"/></svg> <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><!-- Icon from VSCode Icons by Roberto Huertas - https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE --><path fill="#813cf3" d="m12.042 6.858l8.029 4.59v9.014l-8.029-4.594zM20.5 20.415l7.959-4.575V6.887L20.5 11.429zM3.541 11.01l8.03 4.589V6.59L3.541 2zm8.501 14.4L20.071 30v-9.043l-8.029-4.589z"/></svg> <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 128 128"><!-- Icon from Devicon by konpa - https://github.com/devicons/devicon/blob/master/LICENSE --><path fill="#2777ff" d="M68.15 31.699s-10.512-.7-28.411 4.901c-18.242 5.708-28.587 13.798-28.587 13.798s27.188-15.18 57.876-16.043zm39.206 16.505l1.367-.09s-7.83-9.499-22.815-14.126c8.424 3.424 15.756 7.961 21.448 14.215zm2.237 3.946c.21-.364.888 1.158 1.403 1.797c.022.128.058.205-.24.144c-.026-.131-.069-.17-.069-.17s-.72-.428-.942-.732c-.22-.305-.26-.837-.152-1.039m18.39 45.218s1.662-19.081-28.317-23.48a97.5 97.5 0 0 0-13.465-1c-24.029.318-24.905-27.713-6.798-29.128c7.503-.62 16.463 3.429 25.223 7.508c-.033 1.088.012 2.055.727 2.948s3.46 1.867 4.336 2.37s3.687 2.29 5.409 4.531c.373-.698 3.491-2.728 3.491-2.728s-.747.016-2.485-.633c-1.738-.65-3.8-2.615-3.849-2.728c-.048-.114-.08-.292.325-.374c.309-.26-.39-1.104-.698-1.412c-.309-.309-2.371-3.816-2.42-3.898c-.049-.08-.065-.162-.211-.26c-.455-.146-2.453.212-2.453.212s-3.072-1.51-4.13-4.762c.015.57-.527 1.192 0 2.5c-1.603-.677-2.978-1.833-4.064-4.689c-.646 1.625 0 2.658 0 2.658s-3.772-1.054-4.375-4.533c-.662 1.562 0 2.5 0 2.5s-6.15-3.208-16.367-3.254c-6.841-.628-8.265-12.662-7.631-14.688c0 0-9.867-5.2-29.29-7.497c-19.424-2.298-35.353-.346-35.353-.346s34.4-1.651 61.96 9.506c.936 4.19 3.754 11.169 5.272 14.523c-4.343 3.004-9.241 5.827-10.004 15.843s7.848 18.824 18.526 19.095c10.139.54 17.144.617 25.635 5.02c8.105 4.48 14.75 18.136 15.408 30.417c.71-9.112-2.71-28.707-18.666-34.656c22.302 3.902 24.264 20.436 24.264 20.436zM67.624 30.202l-.802-2.588s-13.241-2.351-31.044-1.086C17.975 27.794 0 34.025 0 34.025s36.78-9.254 67.624-3.823"/></svg></li>
     <li>趣味はドライブ・ランニング・Webサイト構築・英語学習など...</li>
-    <li>子供が生まれてからは自分の時間をあまり持ててないのが悩み...</li>
+    <li>でも子供が生まれてからは自分の時間をあまり持ててないのが悩み...</li>
   </ui>
 
   <img border="rounded" src="./images/any08/avatar.jpg" alt="">
@@ -141,27 +137,96 @@ transition: fade-out
 # Vibe Coding
 
 <div>
-  昨今では、開発者の直感や雰囲気（Vibe）をAIに伝えて、対話しながらコードを実装するバイブコーディング（Vibe Coding）が主流になってきた。
+  昨今では、開発者の直感や雰囲気（Vibe）をAIに伝えて、対話しながらコードを実装するバイブコーディング（Vibe Coding）がトレンドになってきた。
 </div>
 
 <br>
 
 <div v-click>
-  ただ、AIは「最もらしい答え」を出すが「正しい保証」はしない。<br>
-  AIが生成したコードに脆弱性が含まれる可能性だって十分にある。
+  コードに関する知識や開発の経験が浅くても、それなりに動くプロダクトを作れるようになった。
 </div>
 
 <br>
 
 <div v-click>
-  コードの信頼性・堅牢性を保つには、開発者の「コードの理解」が現在でも求められている。（と思う。）<br>
-  AIに頼るのも良いけどやはり1人のエンジニアとして、自身のスキルでもコードの信頼性・堅牢性を高めたい。
+  結果として、プログラマは近いうちに生成AIに仕事を奪われる...!!なんてことが囁かれるようになった。💦
 </div>
 
 ::right::
 
 <div>
   <img src="./images/any08/vibe_coding.jpg" alt="">
+</div>
+
+---
+layout: default
+transition: fade-out
+---
+
+# The era of humans writing code is over
+
+<div>
+  Node.jsの作者である Ryan Dahl 氏も「人間がコードを書く時代は終わった」と明言している。<br>
+  コードはAIに任せればいい時代...？
+</div>
+
+<br>
+
+<div>
+  <img src="./images/any08/tweet.png" width="650px" alt="">
+</div>
+
+<style>
+img {
+  margin: 0 auto;
+  display: block;
+}
+</style>
+
+---
+layout: center
+transition: fade-out
+---
+
+## Code Reliability
+
+<style>
+h2 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+---
+layout: two-cols
+layoutClass: gap-16
+transition: fade-out
+---
+
+# Code Reliability
+
+<div>
+  AIは「最もらしい答え」を出すが「正しい保証」はしない。<br>
+  AIが生成したコードに脆弱性が含まれる可能性だって十分にある。
+</div>
+
+<br>
+
+<div v-click>
+  コードに含まれる脆弱性を見抜くには開発者の「コードを読む力」は現在でも求められている。<br>
+  AIに頼るのも良いけどやはり1人のエンジニアとして、自身のスキルでも信頼できるコードの実装を目指したい。<br>
+  （よね...！？）
+</div>
+
+::right::
+
+<div>
+  <img src="./images/any08/code_reliability.jpg" alt="">
 </div>
 
 ---
@@ -488,13 +553,13 @@ transition: fade-out
 
 ```ts {monaco-run}
 const question = () => {
-  const target = {};
+  const target = {}
   if (target.isAdmin) {
     console.log("🎉 success!!")
   } else {
     console.log("❌ Failed!!")
   }
-};
+}
 
 /* add 1 code here */
 
@@ -818,18 +883,18 @@ transition: fade-out
 <div>
 
 ```ts {monaco-run}
-const question = () => {
+const REG_CHECK = /test/g
 
-  /* add 1 code here */
-
-  if ("test" === undefined) {
+const question = (str: string) => {
+  if (str === "test" && !REG_CHECK.test(str)) {
     console.log("🎉 success!!")
   } else {
     console.log("❌ Failed!!")
   }
 }
 
-question()
+question("test")
+/* add 1 code here */
 ```
 
 </div>
@@ -849,7 +914,7 @@ transition: fade-out
 # Answer
 
 <div>
-  <code>const undefined = "test"</code> が正解。
+  <code>question("test")</code> が正解。
 </div>
 
 <br>
@@ -857,16 +922,174 @@ transition: fade-out
 <div>
 
 ```ts {monaco-run}
-const undefined = "test"
-console.log("test" === undefined)
+const REG_CHECK = /test/g
+
+const question = (str: string) => {
+  if (str === "test" && !REG_CHECK.test(str)) {
+    console.log("🎉 success!!")
+  } else {
+    console.log("❌ Failed!!")
+  }
+}
+
+question("test")
+question("test")
 ```
 
 </div>
 
-<br>
+<v-click>
+  これは実装されている正規表現に脆弱性があり、呼び出す度に結果が変わります。<br>
+  正規表現は使いこなせば便利ですが、バグや脆弱性の原因にもなりやすい。
+</v-click>
+
+---
+layout: default
+transition: fade-out
+---
+
+# g
 
 <div>
-  <code>undefined</code>は予約語ではないので、変数名として使用できます。<br>
-  ただし、<code>window.undefined</code>（グローバルの <code>undefined</code>）は上書き不可となっている。 
+  <code>const REG_CHECK = /test/g</code>のように「g」を付けると、ステートフルな正規表現となってしまう。<br>
+  具体的には<code>lastIndex</code>という「照合を開始する位置」をこっそり保持することになります。
 </div>
 
+<br>
+
+````md magic-move {lines: true}
+```ts {*|1-2|5|6|*}
+const REG_CHECK = /test/g
+const str = "test for test and test" // 照合する対象の文字列
+
+// 1回目：
+REG_CHECK.test(str) // 1文字目から検索する -> "test for test and test"
+console.log(REG_CHECK.lastIndex) // 4
+```
+
+```ts {*|8|9|*}
+const REG_CHECK = /test/g
+const str = "test for test and test"
+
+REG_CHECK.test(str)
+console.log(REG_CHECK.lastIndex) // 4
+
+// 2回目：
+REG_CHECK.test(str) // 4文字目から検索する -> " for test and test"
+console.log(REG_CHECK.lastIndex) // 13
+```
+
+```ts {*|11|12|*}
+const REG_CHECK = /test/g
+const str = "test for test and test"
+
+REG_CHECK.test(str)
+console.log(REG_CHECK.lastIndex) // 4
+
+REG_CHECK.test(str)
+console.log(REG_CHECK.lastIndex) // 13
+
+// 3回目：
+REG_CHECK.test(str) // 13文字目から検索する -> " and test"
+console.log(REG_CHECK.lastIndex) // 22
+```
+
+```ts {*|14|15|*}
+const REG_CHECK = /test/g
+const str = "test for test and test"
+
+REG_CHECK.test(str)
+console.log(REG_CHECK.lastIndex) // 4
+
+REG_CHECK.test(str)
+console.log(REG_CHECK.lastIndex) // 13
+
+REG_CHECK.test(str)
+console.log(REG_CHECK.lastIndex) // 22
+
+// 4回目：
+REG_CHECK.test(str) // 22文字目から検索する -> ""
+console.log(REG_CHECK.lastIndex) // 0 （ここでfalseとなる）
+```
+````
+
+---
+layout: default
+transition: slide-up
+---
+
+# Regular expression Denial of Service （ReDoS）
+
+<div>
+  ReDoS（レドス）は正規表現の処理の仕組みを悪用し、計算リソースを大量に消費させてサービス停止や遅延を引き起こす攻撃です。<br>
+  主に正規表現にマッチしない入力をされた場合に発生し、再度ひとつ戻って文字を照合するというバックトラックの仕組みを悪用します。
+</div>
+
+<br>
+
+```ts {monaco-run}
+const REG_CHECK = /^(([a-zA-Z0-9])+)+$/
+
+// 計算時間を計測するサンプル
+const example = (str: string) => {
+  const start = performance.now()
+  REG_CHECK.test(str)
+  const end = performance.now()
+
+  console.log(`${(end - start).toFixed(2)} ms`)
+}
+
+example("abcdef123456@") // 文字を増やすと計算時間が増える
+```
+
+---
+layout: default
+transition: fade-out
+---
+
+# Regular expression Denial of Service （ReDoS）
+
+<div>
+  <code>/^(([a-zA-Z0-9])+)+$/</code>のように、パッと見ただけでは問題があるかどうかわかりにくい。
+</div>
+
+<br>
+
+<v-click>
+
+正規表現を悪用した攻撃を防ぐには、
+
+- 🙅‍♂️ `/(a+)+$/` や `/(a|b+)+$/` のような「繰り返しの中に繰り返し」がある構造を避ける
+  - $O(2^n)$ の計算量を招く恐れがある
+- ✏️ 入力可能な文字数を制限する
+- 🛠️ [node-re2](https://www.npmjs.com/package/re2)などの正規表現用のライブラリを活用する
+
+などの方法がある。
+
+</v-click>
+
+---
+layout: center
+transition: fade-out
+---
+
+# Summary
+
+---
+layout: default
+transition: fade-out
+---
+
+# Summary
+
+- 🏫 ここまで Unicode、Prototype、IEEE754（浮動小数点数）、正規表現 に関するQuizを出しましたが、皆さんは正解できましたでしょうか？
+- 🔍 コードを「書く」作業のほとんどを生成AIが担うかもしれませんが、それでも生成AIが書いたコードを監査できるのは開発者自身です
+- 📚 そう思うと現在においても開発者がプログラミングを学ぶ価値は失っていないと考えられます
+- 💪 脆弱性を見抜ける確かな眼を持つ開発者を目指したいですね
+
+---
+layout: center
+class: text-center
+---
+
+#### <code>process.exit(0)</code>

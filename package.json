@@ -6,8 +6,10 @@
     "build": "slidev build",
     "dev": "slidev --open --port 3031",
     "export": "slidev export",
+    "build:any08": "slidev build any08",
     "dev:any08": "slidev --open any08",
-    "export:any08": "slidev export any08"
+    "export:any08": "slidev export any08",
+    "serve": "npx serve dist -l 3000"
   },
   "dependencies": {
     "@slidev/cli": "^52.11.3",
